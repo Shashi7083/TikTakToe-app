@@ -1,6 +1,6 @@
 # TikTakToe-app
 
-Beginer Practise  Tik Tak Toe app .
+Beginner Practise  Tik Tak Toe app .
 
 <h2> How to Download app </h2>
 
